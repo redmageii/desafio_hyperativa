@@ -1,7 +1,7 @@
 # Desafio Técnico | Estágio de Desenvolvedor Front-End <br/>
 
-O repositório contém a resolução do Desafio Hyperativa para estágio de Front-end. <br/>
-A resolução do desafio está disponível em duas pastas—cada uma contendo os arquivos para cada um dos dois exercícios propostos no teste. <br/><br/>
+  O repositório contém a resolução do Desafio Hyperativa para estágio de Front-end. <br/>
+  A resolução do desafio está disponível em duas pastas—cada uma contendo os arquivos para cada um dos dois exercícios propostos no teste. <br/><br/>
 
 # Orientações de uso <br/>
 
